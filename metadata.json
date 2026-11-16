@@ -1,0 +1,8 @@
+{
+  "name": "Dialer",
+  "description": "HyperOS Liquid Glass & XOS-inspired Dialer with merged call logs, floating call window, video calling, multi-account contact saving, system blocklist sync, and Root/Shizuku two-way call recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
