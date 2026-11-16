@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireLimit</string>
+    <string name="session_service_channel_name">Gaming Session Monitor</string>
+    <string name="session_service_channel_desc">Shows ongoing gaming session time and limit alerts</string>
+    <string name="alert_channel_name">Gaming Limit Alerts</string>
+    <string name="alert_channel_desc">Alerts for 1h 40m warning and 2h session limit</string>
+    <string name="end_button_label">End</string>
+    <string name="end_button_helper">Resets timer &amp; closes app • Auto-starts on next game launch</string>
+</resources>
